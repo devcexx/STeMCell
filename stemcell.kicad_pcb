@@ -9796,7 +9796,7 @@
 		)
 	)
 	(gr_text "@megamind4089"
-		(at 100.1268 70.866 0)
+		(at 100.1268 68.6 0)
 		(layer "B.SilkS")
 		(uuid "23071a88-3221-421f-b45c-abc71304d5b4")
 		(effects
@@ -10115,6 +10115,18 @@
 			(font
 				(size 0.7 0.7)
 				(thickness 0.08)
+			)
+			(justify mirror)
+		)
+	)
+	(gr_text "Printed by devcexx"
+		(at 100 70.8 0)
+		(layer "B.SilkS")
+		(uuid "c4d95089-be14-4d92-985c-4b2324aca523")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.1)
 			)
 			(justify mirror)
 		)
