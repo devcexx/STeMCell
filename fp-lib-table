@@ -1,5 +1,7 @@
 (fp_lib_table
+  (version 7)
   (lib (name "stemcell")(type "KiCad")(uri "${KIPRJMOD}/lib/stemcell.pretty")(options "")(descr ""))
   (lib (name "Diode_SMD")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/Diode_SMD.pretty")(options "")(descr ""))
   (lib (name "LED_SMD")(type "KiCad")(uri "${KICAD6_FOOTPRINT_DIR}/LED_SMD.pretty")(options "")(descr ""))
+  (lib (name "StemCell")(type "KiCad")(uri "${KIPRJMOD}/StemCell.pretty")(options "")(descr ""))
 )
