@@ -27,3 +27,5 @@ stemcell-backups/*
 jlcpcb/
 gerbers/
 .DS_Store
+production/
+*.lck
